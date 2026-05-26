@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BracyProgrammingAssignment2 {
+public class numeric {
     public static void main (String [] args) {
         Scanner input = new Scanner(System.in);
 
